@@ -18,6 +18,7 @@ namespace Tyuiu.FalinGS.Sprint3.Task0.V25.Lib
             {
                 sumSeries = sumSeries + (Math.Pow((4 / (1 + Math.Pow((value), i))), i));
             }
+
             return Math.Round(sumSeries, 3);
 
         }

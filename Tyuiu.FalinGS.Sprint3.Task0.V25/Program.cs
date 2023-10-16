@@ -30,6 +30,7 @@ namespace Tyuiu.FalinGS.Sprint3.Task0.V25
             int startValue = 1;
             int stopValue = 14;
 
+
             Console.WriteLine("Переменная Х =" + value);
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = "+ stopValue);
